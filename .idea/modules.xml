@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EXAMENETS.iml" filepath="$PROJECT_DIR$/.idea/EXAMENETS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etss.iml" filepath="$PROJECT_DIR$/etss.iml" />
     </modules>
   </component>
 </project>
